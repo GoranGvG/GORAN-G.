@@ -11,7 +11,7 @@ body  {
 }
 /***************header******************/
 header{
-  background: url(/photos/topofworld.jpg);
+  background: url(photos/topofworld.jpg);
   background-size: 100% 100%;
   height: 800px;
   width: 100%;
@@ -239,13 +239,13 @@ header{
   height: 50px;
 }
 #post2 {
-  background-image: url(/photos/20200612_084458.jpg);
+  background-image: url(photos/20200612_084458.jpg);
 }
 #post3 {
-  background-image: url(/photos/ski-kozuv.jpg);
+  background-image: url(photos/ski-kozuv.jpg);
 }
 #post4 {
-  background-image: url(/photos/dojran-lake.jpg);
+  background-image: url(photos/dojran-lake.jpg);
 }
 .onetext, .twotext, .threetext{
   color: white;
